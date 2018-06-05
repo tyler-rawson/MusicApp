@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicStructure</string>
+    <string name="alternative_indie">Alternative / Indie</string>
+    <string name="country">Country</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="dance_electronic">Dance / Electronic</string>
+    <string name="top_song_by_genre">Top Songs by Genre</string>
+    <string name="zero">0</string>
+</resources>

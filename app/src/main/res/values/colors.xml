@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for app -->
+    <color name="white_background">#FFFFFF</color>
+
+    <color name="genre_alternative_indie">#98dd1e</color>
+    <color name="genre_alternative_indie_light">#fdfefb</color>
+    <color name="genre_alternative_indie_dark">#83bf1a</color>
+
+    <color name="genre_country">#f27c1a</color>
+    <color name="genre_country_light">#fffdfb</color>
+    <color name="genre_country_dark">#cd640c</color>
+
+    <color name="genre_dance_electronic">#e10976</color>
+    <color name="genre_dance_electronic_light">#fffbfd</color>
+    <color name="genre_dance_electronic_dark">#b0075c</color>
+
+    <color name="genre_pop">#088edf</color>
+    <color name="genre_pop_light">#f8fcff</color>
+    <color name="genre_pop_dark">#066fae</color>
+
+    <color name="genre_rock">#8140ff</color>
+    <color name="genre_rock_light">#fcfbff</color>
+    <color name="genre_rock_dark">#6b1eff</color>
+
+</resources>
+
+
